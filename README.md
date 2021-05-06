@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=samirsam.com&style=for-the-badge&url=https%3A%2F%2Fsamirsam.com)](https://samirsam.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/samirsam?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?samirsam)
-![](https://komarev.com/ghpvc/?username=AcrobaticSam&style=flat-square&color=ff69b4&label=Viewers)
+![](https://komarev.com/ghpvc/?username=AcrobaticSam&style=plastic&color=ff69b4&label=Viewers)
 
 ## I'm a Student, Designer, Developer, and FreeLancer!!
 
