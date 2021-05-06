@@ -1,7 +1,7 @@
 ### Hi there, I'm Samir👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://samirsa,.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?samirsam)
+[![Website](https://img.shields.io/website?label=samirsam.com&style=for-the-badge&url=https%3A%2F%2Fsamirsam.com)](https://samirsam.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/samirsam?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?samirsam)
 
 ## I'm a Student, Designer, Developer, and FreeLancer!!
 
