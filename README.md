@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=samirsam.com&style=for-the-badge&url=https%3A%2F%2Fsamirsam.com)](https://samirsam.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/samirsam?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?samirsam)
+![](https://komarev.com/ghpvc/?username=AcrobaticSam&style=flat-square&color=ff69b4&label=Viewers)
 
 ## I'm a Student, Designer, Developer, and FreeLancer!!
 
@@ -23,7 +24,7 @@
 [<img align="left" alt="AcrobaticSam | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
+<br>
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -58,7 +59,6 @@
 
 </details>
 
-![](https://komarev.com/ghpvc/?username=AcrobaticSam&style=flat-square&color=ff69b4&label=Viewers)
 [website]: https://samirsam.com
 [twitter]: https://twitter.com/samirsam
 [youtube]: https://youtube.com/channel/UCs23AbDDcsUEh1FdHM6mbsw
