@@ -58,8 +58,7 @@
 
 </details>
 
-![](https://komarev.com/ghpvc/?AcrobaticSam=your-github-username&style=flat-square&color=ff69b4)
-
+![](https://komarev.com/ghpvc/?username=AcrobaticSam&style=flat-square&color=ff69b4&label=Viewers)
 [website]: https://samirsam.com
 [twitter]: https://twitter.com/samirsam
 [youtube]: https://youtube.com/channel/UCs23AbDDcsUEh1FdHM6mbsw
