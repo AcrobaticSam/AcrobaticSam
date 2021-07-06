@@ -56,7 +56,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Eziosam's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Eziosam&show_icons=true&hide_border=true" />
+ ![Ezio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eziosam&theme=dracula&show_icons=true)
+
 
 </details>
 
