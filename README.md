@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/samirsam?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?samirsam)
 ![](https://komarev.com/ghpvc/?username=AcrobaticSam&style=plastic&color=6e5494&label=Viewers)
 
-## I'm a Student, Designer, Developer, and FreeLancer!!
+## I'm a Student, Designer, Developer , ML Enthusiast!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
