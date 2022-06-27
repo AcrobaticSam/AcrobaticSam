@@ -51,7 +51,7 @@
 
 </details>
 
-[website]: https://samirsam.com](https://dextersamir.github.io/)
+[website]: https://dextersamir.github.io
 [twitter]: https://twitter.com/samirsam
 [youtube]: https://youtube.com/channel/UCs23AbDDcsUEh1FdHM6mbsw
 [instagram]: https://instagram.com/samirsam
