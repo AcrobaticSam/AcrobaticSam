@@ -1,12 +1,9 @@
 ### Hi there, I'm Samir👋
 ![](https://komarev.com/ghpvc/?username=AcrobaticSam&style=plastic&color=6e5494&label=Viewers)
 
-## I'm a Student, Designer, Developer , ML Enthusiast!!
+## I'm a Software Engineer 
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Hobbies: I love to watch Anime,Tv-Sereis and Movies.
 
 ### Connect with me:
 
