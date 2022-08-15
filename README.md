@@ -111,16 +111,12 @@
 
 ---
 
-
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
- ![Ezio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eziosam&theme=dracula&show_icons=true)
-
-
-</details>
+<div align="center">
+  <details>
+    <summary>:zap: GitHub Stats</summary>
+   ![Ezio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eziosam&theme=dracula&show_icons=true)
+  </details>
+</div>
 
 [website]: https://dextersamir.github.io
 [twitter]: https://twitter.com/samirsam
