@@ -1,20 +1,38 @@
-### Hi there, I'm Samir👋
-![](https://komarev.com/ghpvc/?username=AcrobaticSam&style=plastic&color=6e5494&label=Viewers)
+<h3 align="center">
+  Welcome to Samir Shuvo's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<!-- Typing SVG by Eziosam - https://github.com/Eziosam/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/Eziosam/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+</p>
 
-## I'm a Software Engineer 
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCs23AbDDcsUEh1FdHM6mbsw"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 
-- 🌱 I’m currently learning everything 🤣
+</p>
 
-### Connect with me:
+<br/>
 
-[<img align="left" alt="samirsam.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="AcrobaticSam | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="AcrobaticSam | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="AcrobaticSam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AcrobaticSam | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-<br>
+<!-- Social badges section -->
+<!-- Badges with custom icons - https://github.com/Eziosam/custom-icon-badges -->
+<!-- YouTube stats - https://github.com/Eziosam/github-readme-youtube-stats -->
+<!-- View counter - https://github.com/Eziosam/Simple-View-Counter -->
+<!-- Star counter - https://github.com/Eziosam/GitHub-Star-Counter -->
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCs23AbDDcsUEh1FdHM6mbsw?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCipSxT7a3rn81vGLw9lqRkg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+  <a href="https://www.youtube.com/channel/UCs23AbDDcsUEh1FdHM6mbsw">
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCipSxT7a3rn81vGLw9lqRkg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/Eziosam?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/Eziosam/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+</p>
 
 
 ## 🛠️ My favorite tools
