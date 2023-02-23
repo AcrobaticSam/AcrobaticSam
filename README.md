@@ -135,9 +135,9 @@
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
     <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white">
     <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white">
-    <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white">
-    <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-    <img alt="Gitlab" src="h(https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+    <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white">
+    <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white">
+    <img alt="Gitlab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white">
 </div>
 <hr>
 
