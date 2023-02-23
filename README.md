@@ -74,8 +74,9 @@
     <a href="#"><img alt="Symfony" src="https://custom-icon-badges.herokuapp.com/badge/Nextcord-0d1620.svg?logo=nextcord"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <img src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE" />
+    <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
 </div>
-    ![image]("https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE")
+   
 
 ### 🗄️ Databases and cloud hosting
 
