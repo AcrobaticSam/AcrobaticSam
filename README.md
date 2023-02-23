@@ -109,7 +109,26 @@
 
 <br />
 <br />
+### 📢 Find me elsewhere
+<p align="left">
+  <a href="https://www.codechef.com/users/eziosam">
+    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="codechef" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://leetcode.com/samsamirz151/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leetcode" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
 
+  <a href="https://www.hackerrank.com/tid17204047">
+    <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="hackerrank" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://www.hackerearth.com/@tid17204047">
+    <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="hackerearth" style="vertical-align:top; margin:4px">
+  </a> &nbsp;&nbsp;&nbsp;
+</p>
+
+<hr>
 ---
 
 <div align="center">
