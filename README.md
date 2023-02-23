@@ -38,6 +38,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
 </div>
 <hr>
+
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming and markup languages
@@ -106,7 +107,9 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 <hr>
+
 ## 📢 Find me elsewhere
+
 <p align="left">
   <a href="https://www.codechef.com/users/eziosam">
     <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="codechef" style="vertical-align:top; margin:4px">
