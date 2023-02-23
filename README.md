@@ -57,7 +57,7 @@
     <img alt="Prolog" src="https://custom-icon-badges.herokuapp.com/badge/Prolog-E61B23.svg?logo=swi-prolog&logoColor=white">
 </div>
 
-### 🧰 Frontend Frameworks and libraries
+### 💻 Frontend Frameworks and libraries
 
 <div>
     <img alt="astro" src="https://img.shields.io/badge/Astro-0C1222?style=flat&logo=astro&logoColor=FDFDFE" />
@@ -70,7 +70,7 @@
     
 </div>
 
-### 🧰 Backend Frameworks and libraries   
+### 🖥️ Backend Frameworks and libraries   
 
 <div>
  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB">
@@ -84,16 +84,16 @@
 
 </div>
 
-### 🧰 Design Frameworks and libraries
+### ✏️ Design Frameworks and libraries
 
 <div>
  <img alt="tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white">
  <img alt="chakra" src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white">
  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
- <img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white">
+ <img alt="Material Design" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white">
 </div>
 
-### 🧰 Mobile Development Frameworks and libraries
+### 📱 Mobile Development Frameworks and libraries
 
 <div>
  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white">
@@ -114,7 +114,7 @@
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
 </div>
 
-### 💻 Testing and build tools
+### ⚙️ Testing and build tools
 
   <div>
     <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
