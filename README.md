@@ -165,7 +165,8 @@
 
 <hr>
  
- [![Visits Badge](https://badges.pufler.dev/visits/Eziosam/Eziosam)](https://badges.pufler.dev)
+ 
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=Eziosam.Eziosam&left_color=blue&right_color=red)
  
 <div align="center">
   
