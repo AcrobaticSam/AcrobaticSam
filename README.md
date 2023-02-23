@@ -37,7 +37,7 @@
 <div align="center">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
 </div>
-
+<hr>
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming and markup languages
@@ -105,7 +105,7 @@
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-
+<hr>
 ## 📢 Find me elsewhere
 <p align="left">
   <a href="https://www.codechef.com/users/eziosam">
@@ -117,7 +117,7 @@
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.hackerrank.com/tid17204047">
-    <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="hackerrank" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
   <a href="https://www.hackerearth.com/@tid17204047">
