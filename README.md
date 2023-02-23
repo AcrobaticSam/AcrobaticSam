@@ -9,7 +9,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCs23AbDDcsUEh1FdHM6mbsw"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/@eziosam6838"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 </p>
@@ -22,9 +22,9 @@
 <!-- View counter - https://github.com/Eziosam/Simple-View-Counter -->
 <!-- Star counter - https://github.com/Eziosam/GitHub-Star-Counter -->
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCs23AbDDcsUEh1FdHM6mbsw?sub_confirmation=1">
+  <a href="https://www.youtube.com/user/UCs23AbDDcsUEh1FdHM6mbsw?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCipSxT7a3rn81vGLw9lqRkg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.youtube.com/channel/UCs23AbDDcsUEh1FdHM6mbsw">
+  <a href="https://www.youtube.com/@eziosam6838">
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCipSxT7a3rn81vGLw9lqRkg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
   <a href="https://github.com/Eziosam?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/Eziosam?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
