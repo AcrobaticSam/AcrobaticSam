@@ -64,7 +64,7 @@
 
 ### 🧰 Frameworks and libraries
 
-<p>
+<div>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
@@ -73,8 +73,8 @@
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
     <a href="#"><img alt="Symfony" src="https://custom-icon-badges.herokuapp.com/badge/Nextcord-0d1620.svg?logo=nextcord"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-
-</p>
+    <img src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE" />
+</div>
     ![image]("https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE")
 
 ### 🗄️ Databases and cloud hosting
